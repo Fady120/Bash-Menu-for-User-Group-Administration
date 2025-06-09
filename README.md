@@ -36,7 +36,7 @@ Enter a number, pls:
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/linux-user-group-manager.git
+git clone https://github.com/Fady120/Bash-Menu-for-User-Group-Administration.git
 cd linux-user-group-manager
 ```
 
