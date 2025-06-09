@@ -45,13 +45,13 @@ cd linux-user-group-manager
 Make the script executable:
 
 ```bash
-chmod +x FadySamy_Final.sh
+chmod +x Bash-Menu-for-User-Group-Administration.sh
 ```
 
 Run the script:
 
 ```bash
-./FadySamy_Final.sh
+./Bash-Menu-for-User-Group-Administration.sh
 ```
 
 > You'll be prompted for your sudo password when needed.
